@@ -1638,7 +1638,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rosMpRS4OL .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.7rem);
+    max-height: calc(98.5vh - 5.2rem);
   }
 }
 .cid-rosMpRS4OL .collapsed button.navbar-toggler {
@@ -2118,10 +2118,17 @@ body {
 .cid-rosNQZNCuZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-4.jpg");
 }
 .cid-rosNQZNCuZ H1 {
-  color: #f9d31d;
+  color: #ffffff;
+}
+.cid-rosNQZNCuZ H3 {
+  color: #cccccc;
+}
+.cid-rosNQZNCuZ .mbr-text,
+.cid-rosNQZNCuZ .mbr-section-btn {
+  color: #232323;
 }
 .cid-rosNn0Nj5j {
   padding-top: 60px;
