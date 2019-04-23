@@ -1431,7 +1431,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
