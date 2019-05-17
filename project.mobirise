@@ -33,14 +33,20 @@
     "siteFonts": [],
     "uniqCompNum": 1,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/am-favicon-128x115.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "eurogurjan demosite",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
