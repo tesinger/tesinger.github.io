@@ -2062,22 +2062,22 @@ body {
 .cid-rqwSfc2BnO .mbr-section-btn I {
   color: #767676;
 }
-.cid-rqwdfpsl1T {
+.cid-rrVP6h5Ovu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-color: #2e2e2e;
 }
-.cid-rqwdfpsl1T .mbr-section-subtitle {
+.cid-rrVP6h5Ovu .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-rqwdfpsl1T .media-container-row {
+.cid-rrVP6h5Ovu .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
   align-items: stretch;
   -webkit-align-items: stretch;
 }
-.cid-rqwdfpsl1T .card_cont {
+.cid-rrVP6h5Ovu .card_cont {
   -o-transition: all .5s;
   -ms-transition: all .5s;
   -moz-transition: all .5s;
@@ -2094,19 +2094,19 @@ body {
   text-align: center;
   background-color: #eee;
 }
-.cid-rqwdfpsl1T .card-front {
+.cid-rrVP6h5Ovu .card-front {
   z-index: 2;
   padding: 0;
   width: 100%;
   height: 100%;
   overflow: hidden;
 }
-.cid-rqwdfpsl1T .card-front img {
+.cid-rrVP6h5Ovu .card-front img {
   height: 100%;
   min-width: 100%;
   width: auto;
 }
-.cid-rqwdfpsl1T .card_back {
+.cid-rrVP6h5Ovu .card_back {
   width: 100%;
   height: 100%;
   padding: 30px 30px;
@@ -2122,10 +2122,10 @@ body {
   -webkit-transform: rotateY(-180deg);
   transform: rotateY(-180deg);
 }
-.cid-rqwdfpsl1T .card {
+.cid-rrVP6h5Ovu .card {
   min-height: 300px;
 }
-.cid-rqwdfpsl1T .card:hover .card-front {
+.cid-rrVP6h5Ovu .card:hover .card-front {
   z-index: 1;
   -o-transform: rotateY(180deg);
   -ms-transform: rotateY(180deg);
@@ -2133,7 +2133,7 @@ body {
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
 }
-.cid-rqwdfpsl1T .card:hover .card_back {
+.cid-rrVP6h5Ovu .card:hover .card_back {
   z-index: 2;
   -o-transform: rotateY(0deg);
   -ms-transform: rotateY(0deg);
@@ -2141,25 +2141,24 @@ body {
   -webkit-transform: rotateY(0deg);
   transform: rotateY(0deg);
 }
-.cid-rqwdfpsl1T .builderCard .card_back {
+.cid-rrVP6h5Ovu .builderCard .card_back {
   border-bottom-left-radius: 100px;
 }
-.cid-rqwdfpsl1T .builderCard .card_cont {
+.cid-rrVP6h5Ovu .builderCard .card_cont {
   -o-backface-visibility: hidden;
   -ms-backface-visibility: hidd;
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
-.cid-rqwdfpsl1T .mbr-section-title B {
-  color: #c4bc3b;
-}
-.cid-rqwdfpsl1T P {
-  color: #767676;
-  text-align: right;
-}
-.cid-rqwdfpsl1T H4 {
+.cid-rrVP6h5Ovu .mbr-section-title {
   color: #f9d31d;
+}
+.cid-rrVP6h5Ovu H4 {
+  color: #f9d31d;
+}
+.cid-rrVP6h5Ovu P {
+  color: #767676;
 }
 .cid-rqwdC0b2cv {
   padding-top: 90px;
