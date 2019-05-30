@@ -974,7 +974,7 @@
               }
             },
             ".mbr-section-title B": {
-              "color": "#efefef"
+              "color": "#c4bc3b"
             },
             "P": {
               "color": "#767676",
@@ -1182,7 +1182,7 @@
               }
             },
             "B": {
-              "color": "#232323"
+              "color": "#c4bc3b"
             }
           },
           "_name": "clients",
@@ -1245,7 +1245,7 @@
               }
             },
             ".mbr-section-title B": {
-              "color": "#f9d31d"
+              "color": "#c4bc3b"
             },
             ".mbr-step-title": {
               "color": "#ffffff"
