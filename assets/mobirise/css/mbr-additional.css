@@ -2152,7 +2152,7 @@ body {
   backface-visibility: visible;
 }
 .cid-rqwdfpsl1T .mbr-section-title B {
-  color: #ffffff;
+  color: #efefef;
 }
 .cid-rqwdfpsl1T P {
   color: #767676;
@@ -2367,7 +2367,7 @@ body {
   }
 }
 .cid-rqwdC0b2cv B {
-  color: #2e2e2e;
+  color: #232323;
 }
 .cid-rqwdNfPKhf {
   padding-top: 90px;
@@ -2459,10 +2459,13 @@ body {
   text-align: center;
 }
 .cid-rqwdUQTBtg B {
-  color: #f9d31d;
+  color: #c4bc3b;
 }
 .cid-rqwdUQTBtg H5 {
   color: #efefef;
+}
+.cid-rqwdUQTBtg .mbr-text B {
+  color: #c4bc3b;
 }
 .cid-rqwfJZlX9L {
   padding-top: 90px;
@@ -2508,7 +2511,7 @@ body {
   min-height: 188px;
 }
 .cid-rqwf7Dg23s B {
-  color: #f9d31d;
+  color: #c4bc3b;
 }
 .cid-rqwf7Dg23s LABEL {
   color: #efefef;
